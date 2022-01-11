@@ -1,0 +1,7 @@
+name: Bk Windows Bat
+description: A batch plugin
+author: https://github.com/StarfallProjects
+requirements: []
+configuration:
+  properties: {}
+  additionalProperties: false
