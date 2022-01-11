@@ -1,5 +1,5 @@
-name: Bk Windows Bat
-description: A batch plugin
+name: Bk Windows Sh
+description: A bash plugin
 author: https://github.com/StarfallProjects
 requirements: []
 configuration:
